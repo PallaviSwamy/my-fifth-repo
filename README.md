@@ -22,4 +22,5 @@ This is
 a block
 of code
 ```
-
+[a Link] (https://www.wikipedia.org/).
+![This is an image.](https://github.com/yihui/xarigan/releases/download/v0.0.2/karl-moustache.jpg)
