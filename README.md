@@ -1,25 +1,11 @@
 # my-fifth-repo
-# This is a large heading
-## This is a smaller heading
+ #Pallavi Swamy
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the Pune city of Maharashtra ,India
+I like to live simple life
 
--This is
--an unordered
--list
+##reading 
+Currently I'm reading Elon Musk book
 
-1.This is
-2.an odered
-3.list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
+##Food
+I love to eat ice cream it is like mood booster 
